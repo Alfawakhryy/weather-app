@@ -2,7 +2,6 @@
 
 A minimalistic weather app that displays the current weather conditions for the user's location. The app is built using HTML, CSS, and JavaScript, and it fetches weather data from the OpenWeatherMap API.
 
-![Simple Weather App Screenshot](./screenshot.png)
 
 ## Table of Contents
 
