@@ -18,9 +18,8 @@ A minimalistic weather app that displays the current weather conditions for the 
 
 ## Live Demo
 
-Check out the live demo of the Simple Weather App hosted on Netlify: [Simple Weather App Live Demo](https://your-netlify-url.netlify.app)
+Check out the live demo of the Simple Weather App hosted on Netlify: [Simple Weather App Live Demo](https://weather-app-alfawakhryy.netlify.app/)
 
-Replace `https://your-netlify-url.netlify.app` with the actual URL of your deployed app on Netlify.
 
 ## Technologies Used
 
